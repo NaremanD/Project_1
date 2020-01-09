@@ -11,6 +11,8 @@ matplotlib = "*"
 citipy = "*"
 requests = "*"
 ipykernel = "*"
+census = "*"
+us = "*"
 
 [requires]
 python_version = "3.7"

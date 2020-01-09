@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f9474247591c25bfaaaf93ec165bded24d2ff4d1e64e572dd87cfa01a2ec3c1e"
+            "sha256": "d71d344701264915467bb83570be6cd07ed0187b0f34a0e65a6a3c003ecce203"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -30,6 +30,14 @@
                 "sha256:bbbf4b1e5cd2bdb08f915895b51081c041bac22394fdfcfdfbe9f14b77c08bf2"
             ],
             "version": "==0.1.0"
+        },
+        "census": {
+            "hashes": [
+                "sha256:2e3bdcbb015f2dbb6e67c1207f859fc0a07f82564365880f021d3eee4192dae2",
+                "sha256:ab4f4bb2e7228e688f1de77e693b2e7a10fbab257fd24a616e86fa0cebf6145e"
+            ],
+            "index": "pypi",
+            "version": "==0.8.13"
         },
         "certifi": {
             "hashes": [
@@ -66,6 +74,12 @@
             ],
             "version": "==4.4.1"
         },
+        "future": {
+            "hashes": [
+                "sha256:b1bead90b70cf6ec3f0710ae53a525360fa360d306a86583adc6bf83a4db537d"
+            ],
+            "version": "==0.18.2"
+        },
         "idna": {
             "hashes": [
                 "sha256:c357b3f628cf53ae2c4c05627ecc484553142ca23264e593d327bcde5e9c3407",
@@ -101,6 +115,13 @@
                 "sha256:e909527104a903606dd63bea6e8e888833f0ef087057829b89a18364a856f807"
             ],
             "version": "==0.15.2"
+        },
+        "jellyfish": {
+            "hashes": [
+                "sha256:887a9a49d0caee913a883c3e7eb185f6260ebe2137562365be422d1316bd39c9",
+                "sha256:d0b22034df56d5faa34928457655722acf385d122da59c2cf7f4acd6bd49ea8b"
+            ],
+            "version": "==0.5.6"
         },
         "jupyter-client": {
             "hashes": [
@@ -372,6 +393,13 @@
                 "sha256:f3c5fd51747d450d4dcf6f923c81f78f811aab8205fda64b0aba34a4e48b0745"
             ],
             "version": "==1.25.7"
+        },
+        "us": {
+            "hashes": [
+                "sha256:09dc9ba763e2e4399e6a042104f3e415a7de6bfa4df6f557b4f19e3ba9a22fda"
+            ],
+            "index": "pypi",
+            "version": "==1.0.0"
         },
         "wcwidth": {
             "hashes": [
